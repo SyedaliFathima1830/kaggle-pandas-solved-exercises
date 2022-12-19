@@ -11,14 +11,13 @@ The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysi
 Pandas allows us to analyze big data and make conclusions based on statistical theories.
 Pandas can clean messy data sets, and make them readable and relevant.
 
-   |**Sr.No. 🔢**|**Lessons 📕**| **Exercises 👨‍💻**| 
- |------|--------------------|---------------------|---------------------| 
- |1| Creating,reading and writing | [Exercise 1](https://www.kaggle.com/code/syedalifathima1830/notebookb11cb3bd36/edit) | 
- |2| Indexing,Selecting and Assigning | [Exercise 2](https://www.kaggle.com/code/mrankitgupta/pandas-2exercise-indexing-selecting-assigning) | 
- |3| Summary Functions and Maps | [Exercise 3](https://www.kaggle.com/code/mrankitgupta/pandas-3-exercise-summary-functions-and-maps) | 
- |4| Groping and Sorting | [Exercise 4](https://www.kaggle.com/code/mrankitgupta/pandas-4-exercise-grouping-and-sorting) | 
- |5| Data Types & Missing Values | [Exercise 5](https://www.kaggle.com/code/mrankitgupta/pandas-5-exercise-data-types-and-missing-values) | 
- |6| Renaming and Combining | [Exercise 6](https://www.kaggle.com/code/mrankitgupta/pandas-6-exercise-renaming-and-combining) | 
+ |**Sr.No. 🔢**|       **Lessons 📕**             |                  **Exercises 👨‍💻**                                                                     | 
+ |   1         | Creating,reading and writing     | [Exercise 1](https://www.kaggle.com/code/syedalifathima1830/notebookb11cb3bd36/edit)                   | 
+ |   2         | Indexing,Selecting and Assigning | [Exercise 2](https://www.kaggle.com/code/mrankitgupta/pandas-2exercise-indexing-selecting-assigning)   | 
+ |   3         | Summary Functions and Maps       | [Exercise 3](https://www.kaggle.com/code/mrankitgupta/pandas-3-exercise-summary-functions-and-maps)    | 
+ |   4         | Groping and Sorting              | [Exercise 4](https://www.kaggle.com/code/mrankitgupta/pandas-4-exercise-grouping-and-sorting)          | 
+ |   5         | Data Types & Missing Values      | [Exercise 5](https://www.kaggle.com/code/mrankitgupta/pandas-5-exercise-data-types-and-missing-values) | 
+ |   6         | Renaming and Combining           | [Exercise 6](https://www.kaggle.com/code/mrankitgupta/pandas-6-exercise-renaming-and-combining)        | 
   
   
  
