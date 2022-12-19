@@ -14,7 +14,7 @@ Pandas can clean messy data sets, and make them readable and relevant.
   
  |**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**| 
  |------|--------------------|---------------------|---------------------| 
- |1| Basics, Data Structures - Series, DataFrame, Panel | [Pandas Course - by Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) | [Exercise 1](https://www.kaggle.com/code/mrankitgupta/pandas-1-exercise-creating-reading-and-writing/notebook) | 
+ |1| Basics, Data Structures - Series, DataFrame, Panel |) | [Exercise 1](https://www.kaggle.com/code/syedalifathima1830/notebookb11cb3bd36/edit) | 
  |2| **Summary Functions and Maps, Operations** - Slicing, Merging | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) | [Exercise 2](https://www.kaggle.com/code/mrankitgupta/pandas-2exercise-indexing-selecting-assigning) | 
  |3| **Operations** - Joining, Concatenation | [GitHub Repo on Pandas](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises) | [Exercise 3](https://www.kaggle.com/code/mrankitgupta/pandas-3-exercise-summary-functions-and-maps) | 
  |4| Changing Index & Column Header, Data Munging | [JavaTpoint](https://www.javatpoint.com/python-pandas)| [Exercise 4](https://www.kaggle.com/code/mrankitgupta/pandas-4-exercise-grouping-and-sorting) | 
