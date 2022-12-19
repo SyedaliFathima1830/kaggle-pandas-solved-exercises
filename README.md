@@ -12,7 +12,7 @@ Pandas allows us to analyze big data and make conclusions based on statistical t
 Pandas can clean messy data sets, and make them readable and relevant.
 
   
- |**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**| 
+ |**Sr.No. 🔢**|**Lessons 📕**| **Exercises 👨‍💻**| 
  |------|--------------------|---------------------|---------------------| 
  |1| Basics, Data Structures - Series, DataFrame, Panel |) | [Exercise 1](https://www.kaggle.com/code/syedalifathima1830/notebookb11cb3bd36/edit) | 
  |2| **Summary Functions and Maps, Operations** - Slicing, Merging | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) | [Exercise 2](https://www.kaggle.com/code/mrankitgupta/pandas-2exercise-indexing-selecting-assigning) | 
