@@ -16,7 +16,7 @@ Pandas can clean messy data sets, and make them readable and relevant.
  |   1         | Creating,reading and writing     | [Exercise 1](https://www.kaggle.com/code/syedalifathima1830/notebookb11cb3bd36/edit)                   | 
  |   2         | Indexing,Selecting and Assigning | [Exercise 2](https://www.kaggle.com/code/syedalifathima1830/exercise-indexing-selecting-assigning/edit)   | 
  |   3         | Summary Functions and Maps       | [Exercise 3](https://www.kaggle.com/code/syedalifathima1830/exercise-summary-functions-and-maps/edit)    | 
- |   4         | Groping and Sorting              | [Exercise 4](https://)          | 
+ |   4         | Groping and Sorting              | [Exercise 4](https://www.kaggle.com/code/syedalifathima1830/exercise-grouping-and-sorting)          | 
  |   5         | Data Types & Missing Values      | [Exercise 5](https://) | 
  |   6         | Renaming and Combining           | [Exercise 6](https://)        | 
   
