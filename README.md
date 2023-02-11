@@ -18,7 +18,7 @@ Pandas can clean messy data sets, and make them readable and relevant.
  |   3         | Summary Functions and Maps       | [Exercise 3](https://www.kaggle.com/code/syedalifathima1830/exercise-summary-functions-and-maps/edit)    | 
  |   4         | Groping and Sorting              | [Exercise 4](https://www.kaggle.com/code/syedalifathima1830/exercise-grouping-and-sorting)          | 
  |   5         | Data Types & Missing Values      | [Exercise 5](https://www.kaggle.com/code/syedalifathima1830/exercise-data-types-and-missing-values/edit) | 
- |   6         | Renaming and Combining           | [Exercise 6]https://www.kaggle.com/code/syedalifathima1830/exercise-renaming-and-combining/edit)        | 
+ |   6         | Renaming and Combining           | [Exercise 6](https://www.kaggle.com/code/syedalifathima1830/exercise-renaming-and-combining/edit)        | 
   
   
  
